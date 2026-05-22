@@ -3,7 +3,7 @@ import axios from 'axios'
 import Result from './Result'
 import Leaderboard from './Leaderboard'
 
-const paragraph = `The Demon Slayer Corps prepares for a final confrontation as Tamayo works on a serum. Muzan launches a preemptive assault, prompting Kagaya to sacrifice himself in a suicide attack. The Hashira engage Muzan, but he traps them within the Infinity Castle, where they must battle the remaining Upper Ranks. Through great sacrifice, the demons Akaza, Doma, and Kokushibo are defeated. Muzan kills Tamayo but is severely weakened by the poison she implanted in him. Forced above ground, a desperate battle ensues as the remaining Demon Slayers fight to hold him until sunrise. Though most of the Hashira perish, Tanjiro delivers the final blow. With his last breath, Muzan transforms Tanjiro into a demon, but Nezuko, now fully human, helps reverse the transformation.`
+const paragraph = `The Demon Slayer Corps prepares for a final confrontation as Tamayo works on a serum. Muzan launches a preemptive assault, prompting Kagaya to sacrifice himself in a suicide attack. The Hashira engage Muzan, but he traps them within the Infinity Castle, where they must battle the remaining Upper Ranks. Through great sacrifice, the demons Akaza, Doma, and Kokushibo are defeated. Muzan kills Tamayo but is severely weakened by the poison she implanted in him. Forced above ground, a desperate battle ensues as the remaining Demon Slayers fight to hold him until sunrise.`
 
 function TypingBox() {
 
